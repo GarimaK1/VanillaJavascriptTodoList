@@ -1,6 +1,6 @@
 ## Todo App using HTML CSS Javascript. No framework used.
 
-## See GitHub Page to view full deployment: https://garimak1.github.io/ImageGallery/
+## See GitHub Page to view full deployment: https://garimak1.github.io/VanillaJavascriptTodoList/
 
 ### Preview Images:
 
