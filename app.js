@@ -12,8 +12,8 @@ console.log(submitBtn);
 
 // Event Listeners
 submitBtn.addEventListener('click', addTodo);
-// Can't select the actual todoDiv here because it is not present in the begining, is created dynamically.
-// So selecting the whole ul instead.
+/* Can't select the actual todoDiv here because it is not present in the begining, is created dynamically.
+   So selecting the whole ul instead. */
 todoList.addEventListener('click', deleteOrCheck);
 
 // Functions
