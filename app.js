@@ -1,16 +1,16 @@
 // Selectors
 const todoInput2 = document.getElementsByClassName('todo-input')[0]; // array-like data structure
-console.log(todoInput2);
+// console.log(todoInput2);
 const todoInput = document.querySelector('.todo-input'); // selects actual element
-console.log(todoInput); // logs element itself
-console.dir(todoInput); // logs object properties
+// console.log(todoInput); // logs element itself
+// console.dir(todoInput); // logs object properties
 const todoList = document.querySelector('.todo-list');
-console.log(todoList);
-console.dir(todoList);
+// console.log(todoList);
+// console.dir(todoList);
 const submitBtn = document.querySelector('.todo-button');
-console.log(submitBtn);
+// console.log(submitBtn);
 const select = document.querySelector('select');
-console.log(select[0].value);
+// console.log(select[0].value);
 
 // Event Listeners
 submitBtn.addEventListener('click', addTodo);
