@@ -54,7 +54,6 @@ function addTodo(event) {
 }
 
 function deleteOrCheck(e) {
-    console.dir(e.target);
     const item = e.target;
 
     // Delete todo
@@ -77,9 +76,7 @@ function deleteOrCheck(e) {
 
 function filterTodo(e) {
     const todos = document.querySelectorAll('.todo');
-    console.log(todos);
     todos.forEach(todo => {
-        console.dir(todo);
         switch (e.target.value) {
             case 'All':
                 // Display all todos
