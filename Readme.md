@@ -2,5 +2,7 @@
 
 ### Preview Images:
 
-### Responsive UI
+### Add Todo Items
+
+![Adding Todo Items] (https://github.com/GarimaK1/VanillaJavascriptTodoList/blob/master/Demo/TodoListAddTodos2.gif)
 
