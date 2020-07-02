@@ -1,5 +1,7 @@
 ## Todo App using HTML CSS Javascript. No framework used.
 
+## See GitHub Page to view full website/application. 
+
 ### Preview Images:
 
 #### Add Todo Items
