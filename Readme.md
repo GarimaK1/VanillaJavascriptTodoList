@@ -1,4 +1,4 @@
-## Todo App using HTML CSS Javascript
+## Todo App using HTML CSS Javascript. No framework used.
 
 ### Preview Images:
 
